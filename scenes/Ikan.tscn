@@ -8,6 +8,7 @@ radius = 40.0
 height = 38.0
 
 [node name="Ikan" type="RigidBody2D"]
+scale = Vector2( 0.433088, 0.457083 )
 contacts_reported = 1
 contact_monitor = true
 script = ExtResource( 2 )

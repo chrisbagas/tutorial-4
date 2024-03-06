@@ -1,0 +1,2 @@
+# Tugas Mandiri
+Pertama saya mengubah link dari area trigger roket di level 1 dari winscreen menjadi level 2. Lalu saya membuat level 2 dengan menggunakan tileset baru yaitu dengan tileset batu dan membuat spawner baru yang akan menspawn tikus serta menambahkan rintangan di mana player perlu melompat dan naik ke atas untuk memenangkan bendera untuk mencapai win screen.
